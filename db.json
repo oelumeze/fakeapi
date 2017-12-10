@@ -1,4 +1,5 @@
-  [{
+{
+  "freeelancers" :[{
       "email" : "o.elumeze@yahoo.com",
       "name" : "Ogo Elumeze"
   },
@@ -14,3 +15,4 @@
       "email" : "poelumeze@yahoo.com",
       "name" : "Peter Elumeze"
   }]
+}
