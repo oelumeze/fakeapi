@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "freelancers": [
+     {
+      id : 1,
+      email : "o.elumeze@yahoo.com",
+      name : "Ogo Elumeze"
+    },
+    {
+      id : 2,
+      email : "ugoelumeze@gmail.com",
+      name : "Ugo Elumeze"
+    }, 
+    {
+      id : 3,
+      email : "nonso777@yahoo.com",
+      name : "Nonso Elumeze"
+    },
+    {
+      id : 4,
+      email : "poelumeze@yahoo.com",
+      name : "Peter Elumeze"
+    }
+ ]
 }
