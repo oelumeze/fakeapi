@@ -1,16 +1,16 @@
-  {
+  [{
       "email" : "o.elumeze@yahoo.com",
       "name" : "Ogo Elumeze"
-    },
-    {
+  },
+  {
       "email" : "ugoelumeze@gmail.com",
       "name" : "Ugo Elumeze"
-    }, 
-    {
+  }, 
+  {
       "email" : "nonso777@yahoo.com",
       "name" : "Nonso Elumeze"
-    },
-    {
+  },
+  {
       "email" : "poelumeze@yahoo.com",
       "name" : "Peter Elumeze"
-    }
+  }]
